@@ -26,3 +26,14 @@ This repository provides an implementation of the SOLID principles using C# and 
 - **Backend**: .NET Core
 - **Language**: C#
 - **Design Patterns**: Various patterns to demonstrate each SOLID principle
+
+## Project Structure
+
+```plaintext
+src/
+├── SOLIDPrinciples
+│   ├── Controllers
+│   ├── Models
+│   ├── Repositories
+│   ├── Services
+│   └── ...
