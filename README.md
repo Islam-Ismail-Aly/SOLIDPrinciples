@@ -30,10 +30,9 @@ This repository provides an implementation of the SOLID principles using C# and 
 ## Project Structure
 
 ```plaintext
-src/
-├── SOLIDPrinciples
-│   ├── Controllers
-│   ├── Models
-│   ├── Repositories
-│   ├── Services
-│   └── ...
+SOLIDPrinciples/
+├── SOLID_Lab01
+│   ├── SRP
+│   ├── OCP
+│   ├── LSP
+│   ├── DIP
